@@ -1,0 +1,18 @@
+# Setup
+title:        Zero's Homepage
+tagline:      Occasionally I write about stuff
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Sandeep
+  url:        https://ethereal-sandeep.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
