@@ -4,6 +4,7 @@ tagline:      Occasionally I write about stuff
 baseurl:      ""
 paginate:     1
 locale:       "en"
+copyright:    2021 zero
 
 # About/contact
 author:
