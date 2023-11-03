@@ -1,10 +1,10 @@
 # Setup
-title:        Zero's Homepage
-tagline:      Occasionally I write about stuff
+title:        Sandeep
+tagline:      Engineer | Builder
 baseurl:      ""
 paginate:     1
 locale:       "en"
-copyright:    2021 zero
+copyright:    2023 Sandeep
 
 # About/contact
 author:
