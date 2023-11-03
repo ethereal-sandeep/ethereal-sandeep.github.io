@@ -1,14 +1,14 @@
 # Setup
-title:        Sandeep
+title:        Zero
 tagline:      Engineer | Builder
 baseurl:      ""
 paginate:     1
 locale:       "en"
-copyright:    2023 Sandeep
+copyright:    2023 Zero
 
 # About/contact
 author:
-  name:       Sandeep
+  name:       Zero
   url:        https://ethereal-sandeep.github.io
 
 # Gems
